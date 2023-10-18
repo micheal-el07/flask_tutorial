@@ -1,3 +1,24 @@
-h1 {
-    color: navy;
+.black-border-table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+/* Style table headers */
+.black-border-table th {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+/* Style table cells */
+.black-border-table td {
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.content {
+
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; 
+    height: 100vh;*/
 }
